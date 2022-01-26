@@ -18,9 +18,9 @@ Una vez esté llena la sala se imprime la sala con los asientos ocupados indican
 
 Ejemplo de ejecución: 
 
-![Image_text](https://github.com/Franco940/Cine/blob/master/ejemploEjecucion1.png)
+![Image_text](https://github.com/Franco940/Cine/blob/master/assets/ejemploEjecucion1.png)
 
 
 Luego muestra la información de los espectadores que ingresaron a la sala
 
-![Image_text](https://github.com/Franco940/Cine/blob/master/ejemploEjecucion2.png)
+![Image_text](https://github.com/Franco940/Cine/blob/master/assets/ejemploEjecucion2.png)
