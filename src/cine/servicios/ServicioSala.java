@@ -42,7 +42,7 @@ public class ServicioSala {
                 columna = (int)(Math.random() * 6);
             }while(sala.getSala()[fila][columna] == 1);
             
-                sala.getSala()[fila][columna] = 1;
+            sala.getSala()[fila][columna] = 1;
         }
     }
     
