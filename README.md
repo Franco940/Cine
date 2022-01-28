@@ -4,7 +4,7 @@ Este programa lo que hace es simular un cine.
 
 La sala del cine tiene 48 asientos y están distribuidos de la siguiente forma:
 
-![Image_text](https://github.com/Franco940/Cine/blob/master/disposicionAsientos.png)
+![Image_text](https://github.com/Franco940/Cine/blob/master/assets/disposicionAsientos.png)
 
 
 El programa seleccionará una película entre 5 disponibles y luego un precio de entrada al azar que va desde 150 a 800.
